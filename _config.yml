@@ -105,5 +105,5 @@ theme: butterfly
 deploy: 
   type: git
   repo: git@kipleytaylor11.top:/www/repo/hexo.git
-  branch: main # 注意此处分支设定,需在仓库中选择默认的分支
+  branch: master # 注意此处分支设定,需在仓库中选择默认的分支
 

@@ -26,6 +26,6 @@
     "hexo-theme-landscape": "^1.0.0"
   },
   "devDependencies": {
-    "@vue/language-plugin-pug": "^2.2.10"
+    "@vue/language-plugin-pug": "^3.0.1"
   }
 }
